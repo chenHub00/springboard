@@ -1,0 +1,13 @@
+
+cd C:\Users\Vicente\Documents\springboard\code_python\inferential_stats\human_temp
+
+activate py35
+
+jupyter notebook
+
+
+# 12:50 pm
+look for code
+concepts and approach
+communication
+
